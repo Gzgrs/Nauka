@@ -5,3 +5,8 @@ body {
   font-size: 20px;
   Font-Family: 'Source Sans Pro', Sans-Serif;
 }
+
+h2 {
+  margin-bottom: -20px;
+  Font-Family: 'Playfair Display', Serif;
+}
