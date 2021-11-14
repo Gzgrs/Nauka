@@ -1,0 +1,5 @@
+Wyswietlanie bledow we wszystkich plikach .html;
+html-validate *.html
+
+Czyta z pliku style.css i zapisuje wynik do pliku style.prefixed.css 
+autoprefixer-cli -o style.prefixed.css css/style.css

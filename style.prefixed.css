@@ -9,5 +9,6 @@ body {
 h2 {
   margin-bottom: -20px;
   Font-Family: 'Playfair Display', Serif;
+  display: -ms-flexbox;
   display: flex;
 }
