@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Gzgrs/Nauka#readme",
   "devDependencies": {
     "autoprefixer-cli": "^1.0.0",
-    "browser-sync": "^2.27.7"
+    "browser-sync": "^2.27.7",
+    "html-validate": "^6.1.2"
   }
 }
